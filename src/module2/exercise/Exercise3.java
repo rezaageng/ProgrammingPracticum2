@@ -112,7 +112,7 @@ public class Exercise3 extends JFrame {
                         "\nForeigner: " + foreigner +
                         "\nSaving Type: " + savingType +
                         "\nTransaction Frequency: " + transactionFrequency +
-                        "\ndateOfBirth: " + dateOfBirth +
+                        "\nDate of Birth: " + dateOfBirth +
                         "\n" +
                         "______________________\n");
 
